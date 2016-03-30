@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Generated with http://android-holo-colors.com -->
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <style name="ProjectEulerTheme" parent="@style/_ProjectEulerTheme"/>
+
+  <style name="_ProjectEulerTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+
+    <item name="android:editTextStyle">@style/EditTextProjectEulerTheme</item>
+
+  </style>
+
+</resources>

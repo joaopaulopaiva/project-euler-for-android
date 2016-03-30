@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" xmlns:android="http://schemas.android.com/apk/res/android">
+
+	<style name="MainScreenTheme" parent="@style/Theme.AppCompat.Light.DarkActionBar">
+    	
+    	<item name="colorPrimary">@color/brown</item> 
+		<item name="colorPrimaryDark">@color/dark_brown</item>
+		<item name="colorAccent">@color/orange</item>
+		<item name="colorControlNormal">@color/dark_brown</item>
+    	<item name="colorControlActivated">@color/orange</item>
+    	<item name="colorControlHighlight">@color/orange</item>
+    	<item name="android:windowBackground">@color/brown</item>
+	</style>
+
+</resources>

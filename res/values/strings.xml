@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Project Euler</string>
+    <string name="sign_in">Sign In</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="logo_description">Project Euler</string>
+    <string name="problems">Problems</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="action_scroll_to_top">Scroll To Top</string>
+    <string name="action_scroll_to_bottom">Scroll To Bottom</string>
+    <string name="title_activity_show_problems">Select a Problem</string>
+    <string name="title_activity_problem_slide_pager">Problem</string>
+
+</resources>
